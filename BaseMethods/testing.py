@@ -1,0 +1,6 @@
+import oracles
+import optimization
+import presubmit_tests
+
+presubmit_tests.test_log_reg_optimized_oracle_calls()
+presubmit_tests.test_log_reg_optimized()
